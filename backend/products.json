@@ -1,0 +1,920 @@
+[
+  {
+    "id": 1,
+    "name": "HP Laptop Model 1",
+    "category": "Laptop",
+    "price": 1199.99,
+    "brand": "HP",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "Apple Laptop Model 2",
+    "category": "Laptop",
+    "price": 2399.98,
+    "brand": "Apple",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "name": "Lenovo Laptop Model 3",
+    "category": "Laptop",
+    "price": 3599.97,
+    "brand": "Lenovo",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 4,
+    "name": "Asus Laptop Model 4",
+    "category": "Laptop",
+    "price": 4799.96,
+    "brand": "Asus",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 5,
+    "name": "Dell Laptop Model 5",
+    "category": "Laptop",
+    "price": 5000.0,
+    "brand": "Dell",
+    "rating": 3.5,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 6,
+    "name": "HP Laptop Model 6",
+    "category": "Laptop",
+    "price": 6199.99,
+    "brand": "HP",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 7,
+    "name": "Apple Laptop Model 7",
+    "category": "Laptop",
+    "price": 7399.98,
+    "brand": "Apple",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 8,
+    "name": "Lenovo Laptop Model 8",
+    "category": "Laptop",
+    "price": 8599.97,
+    "brand": "Lenovo",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 9,
+    "name": "Asus Laptop Model 9",
+    "category": "Laptop",
+    "price": 9799.96,
+    "brand": "Asus",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 10,
+    "name": "Dell Laptop Model 10",
+    "category": "Laptop",
+    "price": 10000.0,
+    "brand": "Dell",
+    "rating": 3.5,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 11,
+    "name": "HP Laptop Model 11",
+    "category": "Laptop",
+    "price": 11199.99,
+    "brand": "HP",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 12,
+    "name": "Apple Laptop Model 12",
+    "category": "Laptop",
+    "price": 12399.98,
+    "brand": "Apple",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 13,
+    "name": "Lenovo Laptop Model 13",
+    "category": "Laptop",
+    "price": 13599.97,
+    "brand": "Lenovo",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 14,
+    "name": "Asus Laptop Model 14",
+    "category": "Laptop",
+    "price": 14799.96,
+    "brand": "Asus",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 15,
+    "name": "Dell Laptop Model 15",
+    "category": "Laptop",
+    "price": 15000.0,
+    "brand": "Dell",
+    "rating": 3.5,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 16,
+    "name": "HP Laptop Model 16",
+    "category": "Laptop",
+    "price": 16199.99,
+    "brand": "HP",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 17,
+    "name": "Apple Laptop Model 17",
+    "category": "Laptop",
+    "price": 17399.98,
+    "brand": "Apple",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 18,
+    "name": "Lenovo Laptop Model 18",
+    "category": "Laptop",
+    "price": 18599.97,
+    "brand": "Lenovo",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 19,
+    "name": "Asus Laptop Model 19",
+    "category": "Laptop",
+    "price": 19799.96,
+    "brand": "Asus",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 20,
+    "name": "Dell Laptop Model 20",
+    "category": "Laptop",
+    "price": 20000.0,
+    "brand": "Dell",
+    "rating": 3.5,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 21,
+    "name": "HP Laptop Model 21",
+    "category": "Laptop",
+    "price": 21199.99,
+    "brand": "HP",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 22,
+    "name": "Apple Laptop Model 22",
+    "category": "Laptop",
+    "price": 22399.98,
+    "brand": "Apple",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 23,
+    "name": "Lenovo Laptop Model 23",
+    "category": "Laptop",
+    "price": 23599.97,
+    "brand": "Lenovo",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 24,
+    "name": "Asus Laptop Model 24",
+    "category": "Laptop",
+    "price": 24799.96,
+    "brand": "Asus",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 25,
+    "name": "Dell Laptop Model 25",
+    "category": "Laptop",
+    "price": 25000.0,
+    "brand": "Dell",
+    "rating": 3.5,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 26,
+    "name": "HP Laptop Model 26",
+    "category": "Laptop",
+    "price": 26199.99,
+    "brand": "HP",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 27,
+    "name": "Apple Laptop Model 27",
+    "category": "Laptop",
+    "price": 27399.98,
+    "brand": "Apple",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 28,
+    "name": "Lenovo Laptop Model 28",
+    "category": "Laptop",
+    "price": 28599.97,
+    "brand": "Lenovo",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 29,
+    "name": "Asus Laptop Model 29",
+    "category": "Laptop",
+    "price": 29799.96,
+    "brand": "Asus",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 30,
+    "name": "Dell Laptop Model 30",
+    "category": "Laptop",
+    "price": 30000.0,
+    "brand": "Dell",
+    "rating": 3.5,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 31,
+    "name": "HP Laptop Model 31",
+    "category": "Laptop",
+    "price": 31199.99,
+    "brand": "HP",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 32,
+    "name": "Apple Laptop Model 32",
+    "category": "Laptop",
+    "price": 32399.98,
+    "brand": "Apple",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 33,
+    "name": "Lenovo Laptop Model 33",
+    "category": "Laptop",
+    "price": 33599.97,
+    "brand": "Lenovo",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 34,
+    "name": "Asus Laptop Model 34",
+    "category": "Laptop",
+    "price": 34799.96,
+    "brand": "Asus",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 35,
+    "name": "Apple Smartphone Model 1",
+    "category": "Smartphone",
+    "price": 1199.99,
+    "brand": "Apple",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 36,
+    "name": "OnePlus Smartphone Model 2",
+    "category": "Smartphone",
+    "price": 2399.98,
+    "brand": "OnePlus",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 37,
+    "name": "Xiaomi Smartphone Model 3",
+    "category": "Smartphone",
+    "price": 3599.97,
+    "brand": "Xiaomi",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 38,
+    "name": "Realme Smartphone Model 4",
+    "category": "Smartphone",
+    "price": 4799.96,
+    "brand": "Realme",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 39,
+    "name": "Samsung Smartphone Model 5",
+    "category": "Smartphone",
+    "price": 5000.0,
+    "brand": "Samsung",
+    "rating": 3.5,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 40,
+    "name": "Apple Smartphone Model 6",
+    "category": "Smartphone",
+    "price": 6199.99,
+    "brand": "Apple",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 41,
+    "name": "OnePlus Smartphone Model 7",
+    "category": "Smartphone",
+    "price": 7399.98,
+    "brand": "OnePlus",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 42,
+    "name": "Xiaomi Smartphone Model 8",
+    "category": "Smartphone",
+    "price": 8599.97,
+    "brand": "Xiaomi",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 43,
+    "name": "Realme Smartphone Model 9",
+    "category": "Smartphone",
+    "price": 9799.96,
+    "brand": "Realme",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 44,
+    "name": "Samsung Smartphone Model 10",
+    "category": "Smartphone",
+    "price": 10000.0,
+    "brand": "Samsung",
+    "rating": 3.5,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 45,
+    "name": "Apple Smartphone Model 11",
+    "category": "Smartphone",
+    "price": 11199.99,
+    "brand": "Apple",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 46,
+    "name": "OnePlus Smartphone Model 12",
+    "category": "Smartphone",
+    "price": 12399.98,
+    "brand": "OnePlus",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 47,
+    "name": "Xiaomi Smartphone Model 13",
+    "category": "Smartphone",
+    "price": 13599.97,
+    "brand": "Xiaomi",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 48,
+    "name": "Realme Smartphone Model 14",
+    "category": "Smartphone",
+    "price": 14799.96,
+    "brand": "Realme",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 49,
+    "name": "Samsung Smartphone Model 15",
+    "category": "Smartphone",
+    "price": 15000.0,
+    "brand": "Samsung",
+    "rating": 3.5,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 50,
+    "name": "Apple Smartphone Model 16",
+    "category": "Smartphone",
+    "price": 16199.99,
+    "brand": "Apple",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 51,
+    "name": "OnePlus Smartphone Model 17",
+    "category": "Smartphone",
+    "price": 17399.98,
+    "brand": "OnePlus",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 52,
+    "name": "Xiaomi Smartphone Model 18",
+    "category": "Smartphone",
+    "price": 18599.97,
+    "brand": "Xiaomi",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 53,
+    "name": "Realme Smartphone Model 19",
+    "category": "Smartphone",
+    "price": 19799.96,
+    "brand": "Realme",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 54,
+    "name": "Samsung Smartphone Model 20",
+    "category": "Smartphone",
+    "price": 20000.0,
+    "brand": "Samsung",
+    "rating": 3.5,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 55,
+    "name": "Apple Smartphone Model 21",
+    "category": "Smartphone",
+    "price": 21199.99,
+    "brand": "Apple",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 56,
+    "name": "OnePlus Smartphone Model 22",
+    "category": "Smartphone",
+    "price": 22399.98,
+    "brand": "OnePlus",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 57,
+    "name": "Xiaomi Smartphone Model 23",
+    "category": "Smartphone",
+    "price": 23599.97,
+    "brand": "Xiaomi",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 58,
+    "name": "Realme Smartphone Model 24",
+    "category": "Smartphone",
+    "price": 24799.96,
+    "brand": "Realme",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 59,
+    "name": "Samsung Smartphone Model 25",
+    "category": "Smartphone",
+    "price": 25000.0,
+    "brand": "Samsung",
+    "rating": 3.5,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 60,
+    "name": "Apple Smartphone Model 26",
+    "category": "Smartphone",
+    "price": 26199.99,
+    "brand": "Apple",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 61,
+    "name": "OnePlus Smartphone Model 27",
+    "category": "Smartphone",
+    "price": 27399.98,
+    "brand": "OnePlus",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 62,
+    "name": "Xiaomi Smartphone Model 28",
+    "category": "Smartphone",
+    "price": 28599.97,
+    "brand": "Xiaomi",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 63,
+    "name": "Realme Smartphone Model 29",
+    "category": "Smartphone",
+    "price": 29799.96,
+    "brand": "Realme",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 64,
+    "name": "Samsung Smartphone Model 30",
+    "category": "Smartphone",
+    "price": 30000.0,
+    "brand": "Samsung",
+    "rating": 3.5,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 65,
+    "name": "Apple Smartphone Model 31",
+    "category": "Smartphone",
+    "price": 31199.99,
+    "brand": "Apple",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 66,
+    "name": "OnePlus Smartphone Model 32",
+    "category": "Smartphone",
+    "price": 32399.98,
+    "brand": "OnePlus",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 67,
+    "name": "Xiaomi Smartphone Model 33",
+    "category": "Smartphone",
+    "price": 33599.97,
+    "brand": "Xiaomi",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 68,
+    "name": "Realme Smartphone Model 34",
+    "category": "Smartphone",
+    "price": 34799.96,
+    "brand": "Realme",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 69,
+    "name": "HarperCollins Book Model 1",
+    "category": "Book",
+    "price": 1199.99,
+    "brand": "HarperCollins",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 70,
+    "name": "Simon & Schuster Book Model 2",
+    "category": "Book",
+    "price": 2399.98,
+    "brand": "Simon & Schuster",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 71,
+    "name": "Bloomsbury Book Model 3",
+    "category": "Book",
+    "price": 3599.97,
+    "brand": "Bloomsbury",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 72,
+    "name": "Random House Book Model 4",
+    "category": "Book",
+    "price": 4799.96,
+    "brand": "Random House",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 73,
+    "name": "Penguin Book Model 5",
+    "category": "Book",
+    "price": 5000.0,
+    "brand": "Penguin",
+    "rating": 3.5,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 74,
+    "name": "HarperCollins Book Model 6",
+    "category": "Book",
+    "price": 6199.99,
+    "brand": "HarperCollins",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 75,
+    "name": "Simon & Schuster Book Model 7",
+    "category": "Book",
+    "price": 7399.98,
+    "brand": "Simon & Schuster",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 76,
+    "name": "Bloomsbury Book Model 8",
+    "category": "Book",
+    "price": 8599.97,
+    "brand": "Bloomsbury",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 77,
+    "name": "Random House Book Model 9",
+    "category": "Book",
+    "price": 9799.96,
+    "brand": "Random House",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 78,
+    "name": "Penguin Book Model 10",
+    "category": "Book",
+    "price": 10000.0,
+    "brand": "Penguin",
+    "rating": 3.5,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 79,
+    "name": "HarperCollins Book Model 11",
+    "category": "Book",
+    "price": 11199.99,
+    "brand": "HarperCollins",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 80,
+    "name": "Simon & Schuster Book Model 12",
+    "category": "Book",
+    "price": 12399.98,
+    "brand": "Simon & Schuster",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 81,
+    "name": "Bloomsbury Book Model 13",
+    "category": "Book",
+    "price": 13599.97,
+    "brand": "Bloomsbury",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 82,
+    "name": "Random House Book Model 14",
+    "category": "Book",
+    "price": 14799.96,
+    "brand": "Random House",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 83,
+    "name": "Penguin Book Model 15",
+    "category": "Book",
+    "price": 15000.0,
+    "brand": "Penguin",
+    "rating": 3.5,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 84,
+    "name": "HarperCollins Book Model 16",
+    "category": "Book",
+    "price": 16199.99,
+    "brand": "HarperCollins",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 85,
+    "name": "Simon & Schuster Book Model 17",
+    "category": "Book",
+    "price": 17399.98,
+    "brand": "Simon & Schuster",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 86,
+    "name": "Bloomsbury Book Model 18",
+    "category": "Book",
+    "price": 18599.97,
+    "brand": "Bloomsbury",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 87,
+    "name": "Random House Book Model 19",
+    "category": "Book",
+    "price": 19799.96,
+    "brand": "Random House",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 88,
+    "name": "Penguin Book Model 20",
+    "category": "Book",
+    "price": 20000.0,
+    "brand": "Penguin",
+    "rating": 3.5,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 89,
+    "name": "HarperCollins Book Model 21",
+    "category": "Book",
+    "price": 21199.99,
+    "brand": "HarperCollins",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 90,
+    "name": "Simon & Schuster Book Model 22",
+    "category": "Book",
+    "price": 22399.98,
+    "brand": "Simon & Schuster",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 91,
+    "name": "Bloomsbury Book Model 23",
+    "category": "Book",
+    "price": 23599.97,
+    "brand": "Bloomsbury",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 92,
+    "name": "Random House Book Model 24",
+    "category": "Book",
+    "price": 24799.96,
+    "brand": "Random House",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 93,
+    "name": "Penguin Book Model 25",
+    "category": "Book",
+    "price": 25000.0,
+    "brand": "Penguin",
+    "rating": 3.5,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 94,
+    "name": "HarperCollins Book Model 26",
+    "category": "Book",
+    "price": 26199.99,
+    "brand": "HarperCollins",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 95,
+    "name": "Simon & Schuster Book Model 27",
+    "category": "Book",
+    "price": 27399.98,
+    "brand": "Simon & Schuster",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 96,
+    "name": "Bloomsbury Book Model 28",
+    "category": "Book",
+    "price": 28599.97,
+    "brand": "Bloomsbury",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 97,
+    "name": "Random House Book Model 29",
+    "category": "Book",
+    "price": 29799.96,
+    "brand": "Random House",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 98,
+    "name": "Penguin Book Model 30",
+    "category": "Book",
+    "price": 30000.0,
+    "brand": "Penguin",
+    "rating": 3.5,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 99,
+    "name": "HarperCollins Book Model 31",
+    "category": "Book",
+    "price": 31199.99,
+    "brand": "HarperCollins",
+    "rating": 3.8,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 100,
+    "name": "Simon & Schuster Book Model 32",
+    "category": "Book",
+    "price": 32399.98,
+    "brand": "Simon & Schuster",
+    "rating": 4.1,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 101,
+    "name": "Bloomsbury Book Model 33",
+    "category": "Book",
+    "price": 33599.97,
+    "brand": "Bloomsbury",
+    "rating": 4.4,
+    "image_url": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 102,
+    "name": "Random House Book Model 34",
+    "category": "Book",
+    "price": 34799.96,
+    "brand": "Random House",
+    "rating": 4.7,
+    "image_url": "https://via.placeholder.com/150"
+  }
+]
